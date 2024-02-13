@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 
 #### 🔭 I’m currently undergraduation
-##### 🌱 I’m currently Computer Science Engineering ...
-
+##### 🌱 I’m currently Computer Science Engineering 
+###### Studing in Andhra University
